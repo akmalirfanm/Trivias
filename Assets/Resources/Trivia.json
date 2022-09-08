@@ -1,0 +1,34 @@
+{
+  "Trivia": [
+    {
+        "number": "1",
+        "question": "Warna dari langit?",
+        "answer" : ["Merah","Kuning","Biru"],
+        "correctAnswer" : "Biru" 
+    },
+    {
+        "number": "2",
+        "question" : "Warna dari daun?",
+        "answer" : ["Hijau","Merah","Kuning"],
+        "correctAnswer" : "Hijau" 
+    },
+    {
+        "number": "3",
+        "question" : "Warna dari matahari?",
+        "answer" : ["Kuning","Merah","Hijau"],
+        "correctAnswer" : "Kuning" 
+    },
+    {
+        "number": "4",
+        "question" : "Warna dari daun?",
+        "answer" : ["Hijau","Kuning","Biru"],
+        "correctAnswer" : "Hijau" 
+    },
+    {
+        "number": "5",
+        "question" : "Warna dari laut?",
+        "answer" : ["Hijau","Kuning","Merah"],
+        "correctAnswer" : "Biru" 
+    }
+]
+}
