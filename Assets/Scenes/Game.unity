@@ -288,6 +288,10 @@ PrefabInstance:
       propertyPath: m_LocalScale.y
       value: 1.2
       objectReference: {fileID: 0}
+    - target: {fileID: 1160832378455165959, guid: 5a8667ff3ae9db04dbd3f19da190bf46, type: 3}
+      propertyPath: m_UiScaleMode
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1167861592395367997, guid: 5a8667ff3ae9db04dbd3f19da190bf46, type: 3}
       propertyPath: m_LocalScale.x
       value: 2
@@ -394,15 +398,23 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2641468952263871736, guid: 5a8667ff3ae9db04dbd3f19da190bf46, type: 3}
       propertyPath: m_Pivot.x
-      value: 0.49999988
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 2641468952263871736, guid: 5a8667ff3ae9db04dbd3f19da190bf46, type: 3}
       propertyPath: m_Pivot.y
       value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 2641468952263871736, guid: 5a8667ff3ae9db04dbd3f19da190bf46, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2641468952263871736, guid: 5a8667ff3ae9db04dbd3f19da190bf46, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 2641468952263871736, guid: 5a8667ff3ae9db04dbd3f19da190bf46, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -105.48773
+      value: -105.48772
       objectReference: {fileID: 0}
     - target: {fileID: 2641468952263871736, guid: 5a8667ff3ae9db04dbd3f19da190bf46, type: 3}
       propertyPath: m_AnchoredPosition.y
@@ -496,6 +508,34 @@ PrefabInstance:
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: 21300000, guid: ad3e19d082dd1d440ad8236a6758731a, type: 3}
+    - target: {fileID: 6818583069782991010, guid: 5a8667ff3ae9db04dbd3f19da190bf46, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6818583069782991010, guid: 5a8667ff3ae9db04dbd3f19da190bf46, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6818583069782991010, guid: 5a8667ff3ae9db04dbd3f19da190bf46, type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6818583069782991010, guid: 5a8667ff3ae9db04dbd3f19da190bf46, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6818583069782991010, guid: 5a8667ff3ae9db04dbd3f19da190bf46, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 44.410904
+      objectReference: {fileID: 0}
+    - target: {fileID: 6818583069782991010, guid: 5a8667ff3ae9db04dbd3f19da190bf46, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -60.128
+      objectReference: {fileID: 0}
+    - target: {fileID: 6818583069782991010, guid: 5a8667ff3ae9db04dbd3f19da190bf46, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -20.5
+      objectReference: {fileID: 0}
     - target: {fileID: 7385514526395126726, guid: 5a8667ff3ae9db04dbd3f19da190bf46, type: 3}
       propertyPath: m_LocalScale.x
       value: 2
@@ -519,6 +559,18 @@ PrefabInstance:
     - target: {fileID: 7441031017051778515, guid: 5a8667ff3ae9db04dbd3f19da190bf46, type: 3}
       propertyPath: m_LocalScale.y
       value: 1.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7993995068854573728, guid: 5a8667ff3ae9db04dbd3f19da190bf46, type: 3}
+      propertyPath: m_Camera
+      value: 
+      objectReference: {fileID: 805803218}
+    - target: {fileID: 7993995068854573728, guid: 5a8667ff3ae9db04dbd3f19da190bf46, type: 3}
+      propertyPath: m_RenderMode
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7993995068854573728, guid: 5a8667ff3ae9db04dbd3f19da190bf46, type: 3}
+      propertyPath: m_PlaneDistance
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 8393894319565740322, guid: 5a8667ff3ae9db04dbd3f19da190bf46, type: 3}
       propertyPath: m_SizeDelta.y
